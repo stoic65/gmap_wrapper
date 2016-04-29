@@ -1,0 +1,28 @@
+{
+  "name": "gmap_wrapper",
+  "version": "1.0.0",
+  "description": "Simple nodejs wrapper for google map geolocation,reverse geolocation and navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoic65/gmap_wrapper.git"
+  },
+  "keywords": [
+    "Google",
+    "Maps",
+    "Location",
+    "Navigation"
+  ],
+  "author": "R.Varun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stoic65/gmap_wrapper/issues"
+  },
+  "homepage": "https://github.com/stoic65/gmap_wrapper#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
